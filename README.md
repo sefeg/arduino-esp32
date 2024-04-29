@@ -1,3 +1,5 @@
+Sebastian's Fork
+
 # Arduino core for the ESP32, ESP32-S2, ESP32-S3, ESP32-C3, ESP32-C6 and ESP32-H2
 
 ![Build Status](https://github.com/espressif/arduino-esp32/workflows/ESP32%20Arduino%20CI/badge.svg) [![External Libraries Test](https://github.com/espressif/arduino-esp32/actions/workflows/lib.yml/badge.svg?branch=master&event=schedule)](https://github.com/espressif/arduino-esp32/blob/gh-pages/LIBRARIES_TEST.md) [![Hardware Tests](https://github.com/espressif/arduino-esp32/actions/workflows/hil.yml/badge.svg?branch=master&event=schedule)](https://github.com/espressif/arduino-esp32/actions/workflows/hil.yml?query=event%3Aschedule)
